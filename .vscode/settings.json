@@ -1,6 +1,9 @@
 {
     "prettier.singleQuote": true,
     "cSpell.words": [
+        "dencity",
+        "Neibours",
+        "Neigbours",
         "Prettierrc"
     ]
 }
